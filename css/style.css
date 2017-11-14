@@ -1,0 +1,23 @@
+body{font-family: 'Source Serif Pro', serif;}
+header{ min-height:100px;}
+.title{font-size:14px;color: #c3bfb7;margin-top: 40px;}
+.head{font-size:30px;margin-top: 10px}
+.text{font-size:14px; color: #8a8585;margin-top: 15px}
+.comment{font-size:14px;color: #c3bfb7;margin-top: 50px;}
+.logo{margin-top: 70px;}
+.navbar-customaiz{margin-top: 60px;background-color: transparent;border: none;}
+.navbar-nav li a{color: #868181;padding: 8px 40px;transition: 1s;}
+
+.banner{margin-top: 30px;}
+.banner-text1{padding: 0px 45px;}
+.product-text{margin-top: 125px;padding: 0px 45px;}
+.sign{background-color: gainsboro;min-height: 285px;margin-top: 125px;}
+.signin{margin-top: 60px;}
+.signin .head{margin-bottom: 60px;}
+.signin input{border: none;border-bottom: 2px solid black; background-color: transparent;width: 55%;}
+.signin button{border: none;background-color: transparent;position: absolute;right:135px ;bottom: 5px;}
+.load{margin-top: 60px;margin-bottom: 100px;}
+.load-more{background-color: transparent;border: 1px solid black; font-size: 14px; padding: 12px 30px;}
+footer{min-height: 100px;background-color: gainsboro;}
+.term{font-size: 14px;margin-top: 40px;}
+.follow{font-size: 14px;margin-top: 40px;}
